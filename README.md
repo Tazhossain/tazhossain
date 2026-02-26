@@ -18,59 +18,30 @@
 
 ## 🧠 About Me
 
-<table>
-<tr>
-<td valign="top" width="55%">
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" style="margin-left: 20px; border-radius: 10px;" />
 
-```
-$ whoami
-> Taz — Dev, Modder & Script Demon
+👋 I'm **Taz** — a passionate dev from **Bangladesh 🇧🇩** who loves breaking and building things.
 
-$ cat /etc/taz.conf
-  Name    :  Taz
-  Origin  :  Bangladesh 🇧🇩
-  Device  :  Redmi Turbo 4 Pro
-  Laptop  :  Lenovo T480S
-  Shell   :  Termux / Bash
-  Stack   :  Python, Shell, JS, Java
-  Android :  Custom ROM & Root Expert
-  Mode    :  GOD MODE — ALWAYS ON
-```
+🔥 I code, mod APKs, build Telegram bots, write shell scripts, and flash custom ROMs for fun. This is just what I do every day.
 
-</td>
-<td valign="top" width="45%" align="center">
+📱 Deep into **Android internals** — custom ROMs, root (KernelSU/Magisk), bootloader, Smali/Dex patching, the whole deal.
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" />
+🐚 **Termux is my playground.** I live in the terminal and I've built tools people actually use.
 
-</td>
-</tr>
-</table>
+🤖 Love automating everything — bots, scripts, workflows. If it's repetitive, I'm scripting it.
 
-```
-$ cat /etc/skills.conf
-  [Android Modding]
-    • Custom ROM porting, building & flashing
-    • Root access via KernelSU / Magisk
-    • Smali/Dex patching & APK modding
-    • Bootloader unlock & recovery flashing
+&nbsp;
 
-  [Scripting & Automation]
-    • Telegram bots with Python
-    • Termux power tools & shell scripts
-    • Task automation & downloaders
+| 🔩 | Skill |
+|---|---|
+| 📱 | Custom ROM building, porting & flashing |
+| 🔓 | Root — KernelSU / Magisk / Bootloader |
+| 🧬 | Smali/Dex patching & APK modding |
+| 🐍 | Python bots & automation scripts |
+| 🐚 | Termux tools & Linux shell scripts |
+| 🔧 | Tool building — PDF, BDIX, downloaders |
 
-  [Tools I've Built]
-    • BDIX server tester for BD users
-    • PDF unlocker/cracker
-    • Termux script installer (TUP)
-    • Wireless file server (Teledrive)
-```
-
-- 🤖 **Bot Builder** — Telegram bots, automation scripts
-- 🐚 **Shell Wizard** — Termux tools, Linux scripts
-- 🔧 **Tool Maker** — BDIX tools, PDF crackers, downloaders
-- 📱 **Android Expert** — Custom ROMs, root, Smali/APK mods
-- 📡 **Channels**: [@tazmods](https://t.me/tazmods) • [@modsbytaz](https://t.me/modsbytaz)
+📡 Find my mods & tools → [@tazmods](https://t.me/tazmods) • [@modsbytaz](https://t.me/modsbytaz)
 
 ---
 
@@ -86,7 +57,7 @@ $ cat /etc/skills.conf
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnome-terminal&logoColor=00ffcc)
-![Magisk](https://img.shields.io/badge/KernelSU-Root-FF6B6B?style=for-the-badge&logo=android&logoColor=white)
+![KernelSU](https://img.shields.io/badge/KernelSU-Root-FF6B6B?style=for-the-badge&logo=android&logoColor=white)
 ![Custom ROM](https://img.shields.io/badge/Custom_ROM-Expert-9B59B6?style=for-the-badge&logo=android&logoColor=white)
 
 </div>
