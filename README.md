@@ -1,16 +1,16 @@
-## Hi there 👋
+# Profile Overview
 
-<!--
-**Tazhossain/tazhossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bio
+Hello! I am a passionate developer who loves working with various programming languages and technologies.
 
-Here are some ideas to get you started:
+## Featured Projects
+- **Python Projects**:  
+  1. Project 1 - A description of your featured Python project.  
+  2. Project 2 - A description of another Python project you want to highlight.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Shell Projects**:  
+  1. Project A - A brief description of your featured Shell project.  
+  2. Project B - A brief description of another Shell project you want to highlight.
+
+## Telegram Chatbot  
+For more interactions and projects, you can reach out via my Telegram chatbot: [TazBot](https://t.me/tazchatbot)
