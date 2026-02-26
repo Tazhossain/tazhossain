@@ -33,6 +33,7 @@ $ cat /etc/taz.conf
   Laptop  :  Lenovo T480S
   Shell   :  Termux / Bash
   Stack   :  Python, Shell, JS, Java
+  Android :  Custom ROM & Root Expert
   Mode    :  GOD MODE — ALWAYS ON
 ```
 
@@ -45,9 +46,30 @@ $ cat /etc/taz.conf
 </tr>
 </table>
 
+```
+$ cat /etc/skills.conf
+  [Android Modding]
+    • Custom ROM porting, building & flashing
+    • Root access via KernelSU / Magisk
+    • Smali/Dex patching & APK modding
+    • Bootloader unlock & recovery flashing
+
+  [Scripting & Automation]
+    • Telegram bots with Python
+    • Termux power tools & shell scripts
+    • Task automation & downloaders
+
+  [Tools I've Built]
+    • BDIX server tester for BD users
+    • PDF unlocker/cracker
+    • Termux script installer (TUP)
+    • Wireless file server (Teledrive)
+```
+
 - 🤖 **Bot Builder** — Telegram bots, automation scripts
 - 🐚 **Shell Wizard** — Termux tools, Linux scripts
 - 🔧 **Tool Maker** — BDIX tools, PDF crackers, downloaders
+- 📱 **Android Expert** — Custom ROMs, root, Smali/APK mods
 - 📡 **Channels**: [@tazmods](https://t.me/tazmods) • [@modsbytaz](https://t.me/modsbytaz)
 
 ---
@@ -64,6 +86,8 @@ $ cat /etc/taz.conf
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnome-terminal&logoColor=00ffcc)
+![Magisk](https://img.shields.io/badge/KernelSU-Root-FF6B6B?style=for-the-badge&logo=android&logoColor=white)
+![Custom ROM](https://img.shields.io/badge/Custom_ROM-Expert-9B59B6?style=for-the-badge&logo=android&logoColor=white)
 
 </div>
 
@@ -97,8 +121,8 @@ $ cat /etc/taz.conf
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tazhossain&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazhossain&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ffcc&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=tazhossain&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff&count_private=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tazhossain&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ffcc&text_color=ffffff&count_private=true" height="165"/>
 
 <br/>
 
