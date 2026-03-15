@@ -71,7 +71,7 @@
 ### 🐍 Python Projects
 | Repo | Description |
 |---|---|
-| [☁️ NexDrop](https://github.com/Tazhossain/NexDrop) | Best music downloader Telegram bot |
+| [☁️ NexDrop](https://github.com/Tazhossain/NexDrop) | Telegram File-to-Link bot with Force Subscribe |
 | [🎵 musicbot](https://github.com/Tazhossain/musicbot) | Best music downloader Telegram bot |
 | [🔍 BDIX-SEARCHER-TOOL](https://github.com/Tazhossain/BDIX-SEARCHER-TOOL) | BDIX server testing tool for Bangladeshi users |
 | [🔓 PDF-Unlocker](https://github.com/Tazhossain/PDF-Unlocker) | Best PDF unlocker/cracker tool in Python |
