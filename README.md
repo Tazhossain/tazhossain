@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=TAZ&fontSize=90&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Reverse Engineer%20%E2%80%A2%20Script%20Wizard%20%E2%80%A2%20Bot%20Builder&descAlignY=60&descSize=18&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=TAZ&fontSize=90&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20ReverseEngineer%20%E2%80%A2%20Script%20Wizard%20%E2%80%A2%20Bot%20Builder&descAlignY=60&descSize=18&descColor=ffffff" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=00FFCC&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Taz+%F0%9F%91%8B;Coder+%7C+Reverse Engineer+%7C+Script+Wizard+%F0%9F%A7%99;Building+cool+shit+since+day+one+%F0%9F%94%A5;Bot+Builder+%7C+Tool+Maker+%7C+Dev+Demon" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=00FFCC&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Taz+%F0%9F%91%8B;Coder+%7C+ReverseEngineer+%7C+Script+Wizard+%F0%9F%A7%99;Building+cool+shit+since+day+one+%F0%9F%94%A5;Bot+Builder+%7C+Tool+Maker+%7C+Dev+Demon" alt="Typing SVG" />
 
 <br/><br/>
 
